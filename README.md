@@ -1,2 +1,0 @@
-# Location Tracking Demo
- 
